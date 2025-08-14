@@ -1,0 +1,8 @@
+{
+  "name": "html2canvas",
+  "version": "1.4.1",
+  "main": "html2canvas.js",
+  "module": "html2canvas.esm.js",
+  "types": "types/index.d.ts",
+  "browser": "html2canvas.js"
+}
